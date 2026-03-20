@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Fashion Image Retrieval Based on Multimodal Features Enhancement and Fusion"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/casa-2024-fashion-image-retrieval
+excerpt: "First-author paper on multimodal fashion image retrieval published at CASA 2024."
+date: 2024-01-01
+venue: "CASA 2024"
+paperurl:
+citation: 'Li, Yingjin. (2024). &quot;Fashion Image Retrieval Based on Multimodal Features Enhancement and Fusion.&quot; <i>CASA 2024</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper focuses on multimodal fashion image retrieval, with particular emphasis on visual feature enhancement, multimodal fusion, and robust alignment between image and text representations.

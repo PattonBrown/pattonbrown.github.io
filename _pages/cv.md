@@ -11,54 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **MPhil**, The Hong Kong University of Science and Technology (Guangzhou), 2025.09 - Present
+  * Information Hub / Data Science and Analysis
+* **B.Sc. in Data Science and Big Data Technology**, Wuhan Textile University, 2021.09 - 2025.09
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Computer Vision
+* Multimodal AI
+* Industrial Anomaly Detection
+* Diffusion Models
+* Vision-Language Learning
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Selected Publications
+======
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Patents and Software
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* National invention patent related to intelligent visual prediction and Transformer-based modeling
+* Software copyright for an AI-enabled personalized customization system
 
-Publications
+Selected Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Diffusion-based industrial anomaly detection for visual inspection, with a focus on reconstruction, semantic conditioning, and robust localization
+* Multimodal fashion image retrieval based on visual-semantic alignment and feature fusion
+* Multimodal AI for medical understanding, including image-text reasoning and visual grounding
+* AI-driven product design and marketing analysis in consumer-facing domains
+* Intelligent visual systems and personalized customization from algorithm design to system implementation
+
+Honors and Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* National Scholarship
+* First-Class University Scholarship
+* First Prize, Hubei Provincial Mathematical Modeling Competition
+* Second Prize, Challenge Cup Entrepreneurship Competition
+
+Technical Skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Modeling areas: deep learning, computer vision, multimodal learning, anomaly detection
+* Relevant coursework: machine vision and image processing, Python data analysis and mining, data warehousing, Spark in-memory computing, big data systems and distributed processing
+
+Contact
 ======
-* Currently signed in to 43 different slack teams
+* Email: yli499@connect.hkust-gz.edu.cn
+* GitHub: https://github.com/PattonBrown
+* Google Scholar: https://scholar.google.com/citations?user=jC4f6BEAAAAJ&hl=zh-CN

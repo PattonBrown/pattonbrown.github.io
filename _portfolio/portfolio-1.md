@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Diffusion-based Industrial Anomaly Detection"
+excerpt: "Research on industrial anomaly detection with a focus on diffusion-based reconstruction, semantic conditioning, and robust localization for visual inspection tasks."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project centers on industrial anomaly detection for real-world inspection settings. I explore how diffusion models, normality prior learning, semantic conditioning, and segmentation mechanisms can be combined to improve anomaly detection and defect localization.
