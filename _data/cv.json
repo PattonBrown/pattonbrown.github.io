@@ -89,26 +89,5 @@
   "presentations": [],
   "teaching": [],
   "portfolio": [
-    {
-      "name": "Diffusion-based Industrial Anomaly Detection",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Research on industrial anomaly detection with a focus on diffusion-based reconstruction, semantic conditioning, and robust localization for visual inspection tasks."
-    },
-    {
-      "name": "Multimodal Fashion Image Retrieval",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Research on multimodal fashion image retrieval, with an emphasis on visual-semantic alignment and robust retrieval across image-text modalities."
-    },
-    {
-      "name": "Multimodal AI for Medical Understanding",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Exploring multimodal AI for medical understanding, including image-text reasoning, visual grounding, and user-oriented intelligent assistance."
-    }
   ]
 }

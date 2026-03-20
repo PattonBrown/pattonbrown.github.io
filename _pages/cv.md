@@ -29,25 +29,9 @@ Selected Publications
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-Patents and Software
-======
-* National invention patent related to intelligent visual prediction and Transformer-based modeling
-* Software copyright for an AI-enabled personalized customization system
-
-Selected Projects
-======
-* Diffusion-based industrial anomaly detection for visual inspection, with a focus on reconstruction, semantic conditioning, and robust localization
-* Multimodal fashion image retrieval based on visual-semantic alignment and feature fusion
-* Multimodal AI for medical understanding, including image-text reasoning and visual grounding
-* AI-driven product design and marketing analysis in consumer-facing domains
-* Intelligent visual systems and personalized customization from algorithm design to system implementation
-
 Honors and Awards
 ======
 * National Scholarship
-* First-Class University Scholarship
-* First Prize, Hubei Provincial Mathematical Modeling Competition
-* Second Prize, Challenge Cup Entrepreneurship Competition
 
 Technical Skills
 ======
